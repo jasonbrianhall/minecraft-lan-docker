@@ -1,0 +1,15 @@
+[18:47:16.712 main/INFO] Loading extensions...
+[18:47:16.718 main/INFO] Loaded 0 extension(s)
+[18:47:16.728 main/INFO] ******************************************
+[18:47:16.729 main/INFO] 
+[18:47:16.729 main/INFO] Loading Geyser version 2.1.0-SNAPSHOT (git-master-7905581)
+[18:47:16.729 main/INFO] 
+[18:47:16.730 main/INFO] ******************************************
+[18:47:20.015 main/INFO] Started Geyser on 0.0.0.0:19132
+[18:47:20.021 main/INFO] Done (3.293s)! Run /geyser help for help!
+[18:47:20.022 main/WARN] Geyser doesn't translate Bedrock movements perfectly! Using Geyser in servers that have an anticheat could get you banned.
+[18:47:21.555 ForkJoinPool.commonPool-worker-1/WARN] Missing MC locale file: en_us
+[18:47:21.560 ForkJoinPool.commonPool-worker-2/INFO] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[18:47:25.001 ForkJoinPool.commonPool-worker-2/INFO] Minecraft JAR has been successfully downloaded and loaded!
+[18:47:56.541 main/INFO] Shutting down Geyser.
+[18:47:56.549 main/INFO] Geyser shutdown successfully.
